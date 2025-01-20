@@ -1,2 +1,6 @@
 Hello World
+ HEAD
 Changes in branch A
+
+Changes in branch B
+ b
