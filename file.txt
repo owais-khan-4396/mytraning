@@ -1,6 +1,10 @@
 Hello World
  HEAD
 Changes in branch A
+<<<<<<< HEAD
 
 Changes in branch B
  b
+=======
+Changes in branch a
+>>>>>>> a
