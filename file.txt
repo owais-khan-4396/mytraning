@@ -4,7 +4,11 @@ Changes in branch A
 <<<<<<< HEAD
 
 Changes in branch B
+<<<<<<< HEAD
  b
 =======
 Changes in branch a
 >>>>>>> a
+=======
+Changes in branch b
+>>>>>>> b
